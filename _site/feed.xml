@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People of Natural Language Processing</title>
+    <description>Celebrating the humans behind natural language processing research works</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 06 May 2021 14:43:36 -0700</pubDate>
+    <lastBuildDate>Thu, 06 May 2021 14:43:36 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Lili Mou</title>
+        <description>&lt;p&gt;&lt;strong&gt;BIO:&lt;/strong&gt; I am an assistant professor at the University of Alberta, and I am also an Amii Fellow and CIFAR AI Chair. I obtained my BS and PhD degrees from Peking University, and did my postdoc at the University of Waterloo. I am mainly interested in machine learning approaches to NLP.&lt;/p&gt;
+
+&lt;p&gt;Which of the next 3 facts about Vered is the lie?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;We admit very few grads due to funding limit.&lt;/li&gt;
+  &lt;li&gt;My rental apartment is 2min walk from campus.&lt;/li&gt;
+  &lt;li&gt;I did my PhD in Software Engineering Institute.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Join our poll on Twitter (requires Twitter account):&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;interested in machine learning approaches to NLP.&lt;br /&gt;&lt;br /&gt;Which of the next 3 facts is the lie?&lt;br /&gt;&lt;br /&gt;#1: We admit very few grads due to funding limit.&lt;br /&gt;#2: My rental apartment is 2min walk from campus.&lt;br /&gt;#3: I did my PhD in Software Engineering Institute.&lt;br /&gt;&lt;br /&gt;2/3&lt;/p&gt;&amp;mdash; NAACL HLT (@NAACLHLT) &lt;a href=&quot;https://twitter.com/NAACLHLT/status/1389631112121626627?ref_src=twsrc%5Etfw&quot;&gt;May 4, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Click below to reveal the correct lie:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;spoiler&quot;&gt;#1 was the correct lie. &lt;br /&gt;&lt;br /&gt;
+From Lili: “We actually have very abundant research fundings. If you’re interested in applying for MSc/PhD, please don’t hesitate to contact me!”&lt;/span&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 May 2021 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/lili-mou/</link>
+        <guid isPermaLink="true">http://localhost:4000/lili-mou/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Wei Coco Xu</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/cocoweixu&quot;&gt;Follow Wei on Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BIO:&lt;/strong&gt; Assistant Professor in CS at Georgia Tech, looking to hire more PhD students and solve some interesting/hard NLP problems.&lt;/p&gt;
+
+&lt;p&gt;Which of the next 3 facts is the lie?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I wrote one of the first papers on style transfer in 2012 (https://bit.ly/3aeNtUy).&lt;/li&gt;
+  &lt;li&gt;I studied CS because I lost a bet.&lt;/li&gt;
+  &lt;li&gt;I worked hard to publish my first paper because I wanted to travel to Mexico.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Join our poll on Twitter (requires Twitter account):&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Which of the next 3 facts about Wei is the lie?&lt;br /&gt;&lt;br /&gt;1) I wrote one of the first papers on style transfer in 2012 (&lt;a href=&quot;https://t.co/2SCGHSXdYo&quot;&gt;https://t.co/2SCGHSXdYo&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;2) I studied CS because I lost a bet.&lt;br /&gt;&lt;br /&gt;3) I worked hard to publish my first paper because I wanted to travel to Mexico.&lt;br /&gt;&lt;br /&gt;Vote below!&lt;/p&gt;&amp;mdash; NAACL HLT (@NAACLHLT) &lt;a href=&quot;https://twitter.com/NAACLHLT/status/1387171494460014593?ref_src=twsrc%5Etfw&quot;&gt;April 27, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Click below to reveal the correct lie:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;spoiler&quot;&gt;#2 was the correct lie. (the URL might have helped cross off option #1 😉)&lt;br /&gt;&lt;br /&gt;
+From Wei: “I decided to study CS because I want to travel around the world (programming languages are universal).”
+&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/wei-coco-xu/</link>
+        <guid isPermaLink="true">http://localhost:4000/wei-coco-xu/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Vered Shwartz</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/VeredShwartz&quot;&gt;Follow Vered on Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BIO:&lt;/strong&gt; I’m a postdoc at AI2 and the University of Washington. I got my PhD from Bar-Ilan University. Besides research, I like to work out, feed birds, and listen to audiobooks. I’m interested in computational semantics and pragmatics, and commonsense reasoning. I’m currently working on learning to uncover implicit meaning, which is abundant in human speech, and on developing machines with advanced reasoning skills.&lt;/p&gt;
+
+&lt;p&gt;Which of the next 3 facts about Vered is the lie?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I did my PhD to prove to my parents that I DO finish what I start.&lt;/li&gt;
+  &lt;li&gt;My husband and I started dating in 2004.&lt;/li&gt;
+  &lt;li&gt;I co-authored a paper with my brother.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Join our poll on Twitter (requires Twitter account):&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Which of the 3 facts about Vered is the lie? Vote below!&lt;br /&gt;&lt;br /&gt;1) I did my PhD to prove to my parents that I DO finish what I start.&lt;br /&gt;2) My husband and I started dating in 2004.&lt;br /&gt;3) I co-authored a paper with my brother.&lt;br /&gt;&lt;br /&gt;3/4&lt;/p&gt;&amp;mdash; NAACL HLT (@NAACLHLT) &lt;a href=&quot;https://twitter.com/NAACLHLT/status/1384980840036372487?ref_src=twsrc%5Etfw&quot;&gt;April 21, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Click below to reveal the correct lie:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;spoiler&quot;&gt;#1 was the correct lie. &lt;br /&gt;&lt;br /&gt;
+From Vered: “As a child, my parents would say I never finish what I start. It wasn’t why I got a PhD, but I did tease them about it when I graduated :)”&lt;/span&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Apr 2021 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/vered-shwartz/</link>
+        <guid isPermaLink="true">http://localhost:4000/vered-shwartz/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
