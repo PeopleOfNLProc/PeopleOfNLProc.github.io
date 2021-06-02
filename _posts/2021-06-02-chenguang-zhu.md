@@ -4,6 +4,7 @@ title: "Chenguang Zhu"
 image: assets/images/Chenguang_Zhu.jpg
 featured: true
 ---
+<a href="https://twitter.com/chenguangzhu2">Follow Chenguang on Twitter</a>
 
 **BIO:** I am a Principal Research Manager in Microsoft Cognitive Services Research Group, leading research in NLP and knowledge understanding. I obtained my Ph.D. in Computer Science from Stanford University. My book on machine reading comprehension has been published by Elsevier.
 

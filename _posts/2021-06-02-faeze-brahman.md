@@ -4,6 +4,7 @@ title: "Faeze Brahman"
 image: assets/images/Faeze_Brahman.jpg
 featured: true
 ---
+<a href="https://twitter.com/faeze_brh">Follow Faeze on Twitter</a>
 
 **BIO:** I am a CS Ph.D. candidate at UCSC. I am broadly interested in controlled text generation and social commonsense reasoning. I am currently working on teaching machines to generate coherent and engaging narratives. I enjoy photography, traveling, and authentic foods. 
 

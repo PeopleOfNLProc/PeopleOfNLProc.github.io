@@ -2,8 +2,8 @@
 layout: post
 title:  "Noah Smith"
 image: assets/images/Noah_Smith.jpg
-featured: true
 ---
+<a href="https://twitter.com/nlpnoah">Follow Noah on Twitter</a>
 
 **BIO:** I live in Seattle and work at the University of Washington and the Allen Institute for AI. Some of the things I’ve worked on recently include: language modeling, NLP for scientific text, evaluation, MT, and theoretical analysis of NLP models.
 

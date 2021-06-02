@@ -50,15 +50,19 @@ if __name__ == "__main__":
     print(tweet_4 + "\n")
     tweet_url = input("enter tweet url:")
 
+    parsed_twitter_id = twitter_id.strip("@").lower()
+
     with open(output_filename, "w") as f:
         f.write(f"---\nlayout: post\ntitle: \"{title}\"\nimage: {image}\nfeatured: true\n---\n\n")
+        f.write(f"<a href=\"https://twitter.com/{parsed_twitter_id}\">Follow {first} on Twitter</a>\n\n")
         f.write(f"**BIO:** {bio}\n\n")
         f.write(f"Which of the next 3 facts about {first} is the lie?\n\n")
         f.write(f"1. {l[0]}\n")
         f.write(f"2. {l[1]}\n")
         f.write(f"3. {l[2]}\n\n")
-        f.write(f"Join our poll on Twitter (requires Twitter account):\n\n")
-        modified_tweet = tweet_2.replace("\n", "<br>")
-        f.write(f"<blockquote class=\"twitter-tweet\" data-conversation=\"none\"><p lang=\"en\" dir=\"ltr\">{modified_tweet}</p>&mdash; NAACL HLT (@NAACLHLT) <a href=\"https://twitter.com/NAACLHLT/status/{tweet_url}\">{date_day}</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>")
+        if tweet_url != "none":
+            f.write(f"Join our poll on Twitter (requires Twitter account):\n\n")
+            modified_tweet = tweet_2.replace("\n", "<br>")
+            f.write(f"<blockquote class=\"twitter-tweet\" data-conversation=\"none\"><p lang=\"en\" dir=\"ltr\">{modified_tweet}</p>&mdash; NAACL HLT (@NAACLHLT) <a href=\"https://twitter.com/NAACLHLT/status/{tweet_url}\">{date_day}</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>")
         f.write(f"\n\nClick below to reveal the correct lie:\n\n")
         f.write(f"<span class=\"spoiler\">#{answer+1} is the correct lie. <br><br>From {first}: \"{explanation}\"</span>.")

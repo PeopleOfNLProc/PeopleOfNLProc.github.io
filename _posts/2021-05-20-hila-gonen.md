@@ -2,8 +2,8 @@
 layout: post
 title: "Hila Gonen"
 image: assets/images/Hila_Gonen.jpg
-featured: true
 ---
+<a href="https://twitter.com/hila_gonen">Follow Hila on Twitter</a>
 
 **BIO:** I'm a Research Scientist at Amazon, did my Ph.D. at Bar Ilan University. In my research I focus on multilinguality and gender bias in NLP, two topics I find fascinating and important.
 
