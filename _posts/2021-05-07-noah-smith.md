@@ -2,6 +2,7 @@
 layout: post
 title:  "Noah Smith"
 image: assets/images/Noah_Smith.jpg
+featured: true
 ---
 <a href="https://twitter.com/nlpnoah">Follow Noah on Twitter</a>
 

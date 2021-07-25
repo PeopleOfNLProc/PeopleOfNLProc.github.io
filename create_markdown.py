@@ -14,7 +14,7 @@ if __name__ == "__main__":
     # get data for specified index
     df = pd.read_excel(input_filename)
     instance = df.loc[int(inx)]
-    first, last = instance["Name and Surname"].split()
+    first, last = instance["Name and Surname"].split()[0], " ".join(instance["Name and Surname"].split()[1:])
     output_filename = f"_posts/{date_post}-{first.lower()}-{last.lower()}.md"
 
     # edit template
@@ -50,11 +50,11 @@ if __name__ == "__main__":
     print(tweet_4 + "\n")
     tweet_url = input("enter tweet url:")
 
-    parsed_twitter_id = twitter_id.strip("@").lower()
-
     with open(output_filename, "w") as f:
         f.write(f"---\nlayout: post\ntitle: \"{title}\"\nimage: {image}\nfeatured: true\n---\n\n")
-        f.write(f"<a href=\"https://twitter.com/{parsed_twitter_id}\">Follow {first} on Twitter</a>\n\n")
+        if not pd.isnull(twitter_id):
+            parsed_twitter_id = twitter_id.strip("@").lower()
+            f.write(f"<a href=\"https://twitter.com/{parsed_twitter_id}\">Follow {first} on Twitter</a>\n\n")
         f.write(f"**BIO:** {bio}\n\n")
         f.write(f"Which of the next 3 facts about {first} is the lie?\n\n")
         f.write(f"1. {l[0]}\n")

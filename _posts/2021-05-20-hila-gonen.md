@@ -2,6 +2,7 @@
 layout: post
 title: "Hila Gonen"
 image: assets/images/no_image.jpg
+featured: true
 ---
 <a href="https://twitter.com/hila_gonen">Follow Hila on Twitter</a>
 

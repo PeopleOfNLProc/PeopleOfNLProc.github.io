@@ -2,6 +2,7 @@
 layout: post
 title:  "Wei Coco Xu"
 image: assets/images/Wei_Coco_Xu.jpg
+featured: true
 ---
 
 <a href="https://twitter.com/cocoweixu">Follow Wei on Twitter</a>

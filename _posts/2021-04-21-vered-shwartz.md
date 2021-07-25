@@ -2,6 +2,7 @@
 layout: post
 title:  "Vered Shwartz"
 image: assets/images/Vered_Shwartz.jpg
+featured: true
 ---
 
 <a href="https://twitter.com/VeredShwartz">Follow Vered on Twitter</a>
