@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ted Pedersen"
-image: assets/images/Ted_Pedersen.jpg
+image: assets/images/no_image.jpg
 featured: true
 ---
 <a href="https://twitter.com/seetedtalk">Follow Ted on Twitter</a>
