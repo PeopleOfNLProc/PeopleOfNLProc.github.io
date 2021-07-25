@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Santiago Góngora"
-image: assets/images/Santiago_Góngora.jpg
+image: assets/images/Santiago_Gongora.jpg
 featured: true
 ---
 

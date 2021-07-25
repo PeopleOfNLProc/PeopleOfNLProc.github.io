@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Siân Gooding"
-image: assets/images/Siân_Gooding.jpg
+image: assets/images/Sian_Gooding.jpg
 featured: true
 ---
 
